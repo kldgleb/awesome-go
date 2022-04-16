@@ -15,7 +15,7 @@
   * https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA
 
 ## микросервисная архитектура
-  *  атунтификация https://youtu.be/-mvsO5FQNmc
+  *  аутентификация https://youtu.be/-mvsO5FQNmc
 ## митапы/лекции
   * https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I
   * https://www.youtube.com/playlist?list=PLknJ4Vr6efQHYJio6GSXdtYvW693En54B
