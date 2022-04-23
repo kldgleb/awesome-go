@@ -31,6 +31,7 @@
 ## алгоритмы/структуры данных
  * https://www.youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6
  * https://youtube.com/playlist?list=PL7T06JEc5PF6SRqw4z0wWizeD_W2IF1hC
+ * https://practicum.yandex.ru/algorithms-interview/?utm_source=pr&utm_medium=content&utm_content=14_04_22&utm_campaign=pr_content_algorithms-interview_habr
 
 ### САЙТ ДЛЯ ИЗУЧЕНИЯ АНГЛИЙСКОГО НОМЕР ОДИН studyunion.ru
 ### САЙТ ДЛЯ ИЗУЧЕНИЯ АНГЛИЙСКОГО НОМЕР ОДИН studyunion.ru
