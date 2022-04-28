@@ -8,6 +8,7 @@
 ## структура го проекта
   * https://github.com/golang-standards/project-layout
   * https://www.youtube.com/watch?v=mesl2Si6saw&ab_channel=BACKENDNINJA
+  * https://youtu.be/3PfuDX0jZDw
 
 ## grpc
   * https://grpc.io/
