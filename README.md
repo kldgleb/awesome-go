@@ -7,6 +7,7 @@
 
 ## Effective Go
  * https://go.dev/doc/effective_go
+ * https://dave.cheney.net/practical-go/presentations/qcon-china.html
 
 ## структура го проекта
   * https://github.com/golang-standards/project-layout
