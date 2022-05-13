@@ -5,6 +5,9 @@
  * Linux/Macos https://go.dev/doc/install
  * win https://www.freecodecamp.org/news/setting-up-go-programming-language-on-windows-f02c8c14e2f
 
+## Effective Go
+ * https://go.dev/doc/effective_go
+
 ## структура го проекта
   * https://github.com/golang-standards/project-layout
   * https://www.youtube.com/watch?v=mesl2Si6saw&ab_channel=BACKENDNINJA
