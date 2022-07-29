@@ -2,10 +2,10 @@
 ### feel free to pull request :)
 
 ## The Art of golang
- [Rob Pike speeches](https://www.youtube.com/playlist?list=PLDko6iZrlP0fLdqj28BzKAYwsGbQ9ZKbQ)
- [Effective Go](https://go.dev/doc/effective_go)
- [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
- [go изнутри](https://www.youtube.com/watch?v=rloqQY9CT8I)
+  * [Rob Pike speeches](https://www.youtube.com/playlist?list=PLDko6iZrlP0fLdqj28BzKAYwsGbQ9ZKbQ)
+  * [Effective Go](https://go.dev/doc/effective_go)
+  * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+  * [go изнутри](https://www.youtube.com/watch?v=rloqQY9CT8I)
 
 ## go project structures examples
   [golang-standards](https://github.com/golang-standards/project-layout)
