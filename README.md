@@ -20,6 +20,9 @@
    * [Simple grpc server](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=1s&ab_channel=GopherSchool)
    * [Real grpc project](https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA)
 
+## testing/benchmarking
+   * [analyzing-the-performance-of-go-functions-with-benchmarks](https://medium.com/justforfunc/analyzing-the-performance-of-go-functions-with-benchmarks-60b8162e61c6)
+
 ## microservice architecture
    * [Authentication](https://youtu.be/-mvsO5FQNmc)
    * [APIGateway](https://youtu.be/3PfuDX0jZDw)
