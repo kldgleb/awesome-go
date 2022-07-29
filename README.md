@@ -16,7 +16,7 @@
  [Black Hat Go](https://t.me/physics_lib/4968)
 
 ## grpc
-  [grpc.io]https://grpc.io/
+  [grpc.io](https://grpc.io/)
   [Simple grpc server](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=1s&ab_channel=GopherSchool)
   [Real grpc project](https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA)
 
