@@ -29,6 +29,9 @@
    * [meetups](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHYJio6GSXdtYvW693En54B)
    * [golang tutorials](https://tutorialedge.net/golang/)
 
+## practise
+   * [high-performance-go-workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html#overview)
+
 # backend content
 
 ## system design
