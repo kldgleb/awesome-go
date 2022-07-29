@@ -8,40 +8,40 @@
   * [go изнутри](https://www.youtube.com/watch?v=rloqQY9CT8I)
 
 ## go project structures examples
-  [golang-standards](https://github.com/golang-standards/project-layout)
-  [Go cleen architecture](https://www.youtube.com/watch?v=mesl2Si6saw&ab_channel=BACKENDNINJA)
-  [Go clean template](https://youtu.be/V6lQG6d5LgU)
+   * [golang-standards](https://github.com/golang-standards/project-layout)
+   * [Go cleen architecture](https://www.youtube.com/watch?v=mesl2Si6saw&ab_channel=BACKENDNINJA)
+   * [Go clean template](https://youtu.be/V6lQG6d5LgU)
 
 ## books
- [Black Hat Go](https://t.me/physics_lib/4968)
+  * [Black Hat Go](https://t.me/physics_lib/4968)
 
 ## grpc
-  [grpc.io](https://grpc.io/)
-  [Simple grpc server](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=1s&ab_channel=GopherSchool)
-  [Real grpc project](https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA)
+   * [grpc.io](https://grpc.io/)
+   * [Simple grpc server](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=1s&ab_channel=GopherSchool)
+   * [Real grpc project](https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA)
 
 ## microservice architecture
-  [Authentication](https://youtu.be/-mvsO5FQNmc)
-  [APIGateway](https://youtu.be/3PfuDX0jZDw)
+   * [Authentication](https://youtu.be/-mvsO5FQNmc)
+   * [APIGateway](https://youtu.be/3PfuDX0jZDw)
   
 ## meetups/courses
-  [full mail.ru go course](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
-  [meetups](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHYJio6GSXdtYvW693En54B)
-  [golang tutorials](https://tutorialedge.net/golang/)
+   * [full mail.ru go course](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
+   * [meetups](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHYJio6GSXdtYvW693En54B)
+   * [golang tutorials](https://tutorialedge.net/golang/)
 
 # backend content
 
 ## system design
- [system design and more](https://akshay-iyangar.github.io/system-design/)
+  * [system design and more](https://akshay-iyangar.github.io/system-design/)
 
 ## db
- [sql from the start](https://youtube.com/playlist?list=PLSn-RgjO4U6TAVsa9RWcGXrUdFUXM7weE)
- [mail.ru ACID meetup](https://youtu.be/zGwYCPE-TRQ)
- [ACID](https://youtu.be/gOB3hpAVIIQ)
+  * [sql from the start](https://youtube.com/playlist?list=PLSn-RgjO4U6TAVsa9RWcGXrUdFUXM7weE)
+  * [mail.ru ACID meetup](https://youtu.be/zGwYCPE-TRQ)
+  * [ACID](https://youtu.be/gOB3hpAVIIQ)
  
 ## algorithms/data structures
- [Data Structures and Algorithms in Go](https://www.youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
- [Бесплатный курс от yandex](https://practicum.yandex.ru/algorithms-interview/?utm_source=pr&utm_medium=content&utm_content=14_04_22&utm_campaign=pr_content_algorithms-interview_habr)
+  * [Data Structures and Algorithms in Go](https://www.youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
+  * [Бесплатный курс от yandex](https://practicum.yandex.ru/algorithms-interview/?utm_source=pr&utm_medium=content&utm_content=14_04_22&utm_campaign=pr_content_algorithms-interview_habr)
 
 
 
