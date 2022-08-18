@@ -6,6 +6,7 @@
   * [Effective Go](https://go.dev/doc/effective_go)
   * [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
   * [go изнутри](https://www.youtube.com/watch?v=rloqQY9CT8I)
+  * [go-proverbs](http://go-proverbs.github.io/)
 
 ## go project structures examples
    * [golang-standards](https://github.com/golang-standards/project-layout)
