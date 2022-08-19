@@ -40,6 +40,7 @@
 
 ## practice
    * [high-performance-go-workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html#overview)
+   * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 ## other
   * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
