@@ -1,7 +1,7 @@
 # content for learning go
+##[read on pages](https://kldgleb.github.io/awesome-go/)
 ### feel free to pull request :)
 
-[read on pages](https://kldgleb.github.io/awesome-go/)
 
 ## The Art of golang
   * [Rob Pike speeches](https://www.youtube.com/playlist?list=PLDko6iZrlP0fLdqj28BzKAYwsGbQ9ZKbQ)
