@@ -15,6 +15,7 @@
 
 ## books
   * [Black Hat Go](https://t.me/physics_lib/4968)
+  * [Go 101](https://go101.org/article/101.html)
 
 ## grpc
    * [grpc.io](https://grpc.io/)
@@ -36,6 +37,9 @@
 ## practice
    * [high-performance-go-workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html#overview)
 
+## other
+  * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+  
 # backend content
 
 ## system design
