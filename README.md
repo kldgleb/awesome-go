@@ -1,5 +1,5 @@
 # content for learning go
-##[read on pages](https://kldgleb.github.io/awesome-go/)
+## [read on pages](https://kldgleb.github.io/awesome-go/)
 ### feel free to pull request :)
 
 
