@@ -27,6 +27,7 @@
    * [Real grpc project](https://www.youtube.com/watch?v=Gk-z2ykXfJo&ab_channel=BACKENDNINJA)
 
 ## testing/benchmarking
+   * [table-driven-testing-in-parallel](https://www.gopherguides.com/articles/table-driven-testing-in-parallel)
    * [analyzing-the-performance-of-go-functions-with-benchmarks](https://medium.com/justforfunc/analyzing-the-performance-of-go-functions-with-benchmarks-60b8162e61c6)
 
 ## microservice architecture
