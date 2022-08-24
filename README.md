@@ -50,6 +50,8 @@
 
 ## system design
   * [system design and more](https://akshay-iyangar.github.io/system-design/)
+  * [Consistent Hashing](https://www.youtube.com/watch?v=p6wwj0ozifw)
+  
 
 ## db
   * [sql from the start](https://youtube.com/playlist?list=PLSn-RgjO4U6TAVsa9RWcGXrUdFUXM7weE)
