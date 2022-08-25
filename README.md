@@ -50,6 +50,7 @@
 
 ## system design
   * [system design and more](https://akshay-iyangar.github.io/system-design/)
+  * [SystemDesignInterviews](https://www.youtube.com/c/SystemDesignInterview/videos)
   * [Consistent Hashing](https://www.youtube.com/watch?v=p6wwj0ozifw)
   
 
