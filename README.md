@@ -33,7 +33,7 @@
 ## microservice architecture
    * [Authentication](https://youtu.be/-mvsO5FQNmc)
    * [APIGateway](https://youtu.be/3PfuDX0jZDw)
-  
+   * [KAFKA](https://www.youtube.com/watch?v=-AZOi3kP9Js&t=1480s)  
 ## meetups/courses
    * [full mail.ru go course](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
    * [meetups](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHYJio6GSXdtYvW693En54B)
@@ -53,7 +53,6 @@
   * [SystemDesignInterviews](https://www.youtube.com/c/SystemDesignInterview/videos)
   * [Consistent Hashing](https://www.youtube.com/watch?v=p6wwj0ozifw)
   
-
 ## db
   * [sql from the start](https://youtube.com/playlist?list=PLSn-RgjO4U6TAVsa9RWcGXrUdFUXM7weE)
   * [mail.ru ACID meetup](https://youtu.be/zGwYCPE-TRQ)
@@ -62,6 +61,7 @@
 ## algorithms/data structures
   * [Data Structures and Algorithms in Go](https://www.youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
   * [Бесплатный курс от yandex](https://practicum.yandex.ru/algorithms-interview/?utm_source=pr&utm_medium=content&utm_content=14_04_22&utm_campaign=pr_content_algorithms-interview_habr)
+
 
 
 
