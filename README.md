@@ -31,6 +31,7 @@
    * [analyzing-the-performance-of-go-functions-with-benchmarks](https://medium.com/justforfunc/analyzing-the-performance-of-go-functions-with-benchmarks-60b8162e61c6)
 
 ## microservice architecture
+   * [patterns](https://microservices.io/patterns/microservices.html)
    * [Authentication](https://youtu.be/-mvsO5FQNmc)
    * [APIGateway](https://youtu.be/3PfuDX0jZDw)
    * [KAFKA](https://www.youtube.com/watch?v=-AZOi3kP9Js&t=1480s)  
