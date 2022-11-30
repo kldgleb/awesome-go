@@ -15,6 +15,7 @@
 ## go project structures examples
    * [golang-standards](https://github.com/golang-standards/project-layout)
    * [Go cleen architecture](https://www.youtube.com/watch?v=mesl2Si6saw&ab_channel=BACKENDNINJA)
+   * [Go cleen architecture](https://www.youtube.com/watch?v=eVhIlhLl4e4)
    * [Go clean template](https://youtu.be/V6lQG6d5LgU)
 
 ## books
